@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\bin\Debug\ReconKitApp.exe
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\bin\Debug\ReconKitApp.pdb
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.AdminEditorForm.resources
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.AdminsForm.resources
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.MainForm.resources
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.UserEditorForm.resources
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.UsersForm.resources
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.csproj.GenerateResource.cache
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.csproj.CopyComplete
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.exe
+C:\Users\Desarrollo\Desktop\proyectos\Alan\nuevoenfoque\ReconKitApp\obj\Debug\ReconKitApp.pdb

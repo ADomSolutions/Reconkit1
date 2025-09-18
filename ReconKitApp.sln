@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReconKitApp", "ReconKitApp\ReconKitApp.csproj", "{2C3A6A8B-1111-4B2B-A111-8C7C7C7C7C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3A6A8B-1111-4B2B-A111-8C7C7C7C7C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3A6A8B-1111-4B2B-A111-8C7C7C7C7C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCE5C0C2-71D6-49AE-8583-8AEA2C4671E9}
+	EndGlobalSection
+EndGlobal
